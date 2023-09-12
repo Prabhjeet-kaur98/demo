@@ -6,8 +6,10 @@
 </head>
 <body>
     <h1>
-        <?php 
-        echo "Hello, Everybody!" ?>
+        <?php
+        $greeting = "Hello";
+        echo  "Hello,Everybody!"; 
+        ?>
          
     </h1>
 </body>
